@@ -5,7 +5,7 @@
 This application takes your birthday and calculates the day of the week your born
     and then depending on your gender outputs your Akan name.Akan names are derived from
     Ghanian culture where children are given their first name as a day name which correspond to the
-    day in the week they were born  therefore it help you to know the day of the week you born for   most people do know when their birthdays are,but some might not know what day of the week they are bor
+    day in the week they were born  therefore it help you to know the day of the week you born for   most people do know when their birthdays are,but some might not know what day of the week they are born
 
 ##CONTRIBUTOR
 
