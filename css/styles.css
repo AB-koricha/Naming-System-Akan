@@ -1,1 +1,7 @@
-
+.col-50{
+  text-align: center;
+  padding-left: 50px;
+  width: 50%;
+  margin: 1200px;
+  float: right;
+}
