@@ -11,3 +11,21 @@ h2{
   color: blue;
   font-family: fantasy;
 }
+.col-50{
+  text-align: center;
+  padding-left: 50px;
+  width: 50%;
+  margin: 1200px;
+  float: right;
+}
+h3{
+  color: blue;
+  font-family: sans-serif;
+}
+.col-75{
+  text-align: center;
+  padding-left: 50px;
+  width: 50%;
+  margin: 1200px;
+  float: right;
+}
