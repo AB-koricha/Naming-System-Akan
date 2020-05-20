@@ -8,9 +8,9 @@ if(date > 0){
 }
 var month=12;
 if(month > 0){
-  console.log("valid");
+  document.write("valid");
 }else if(month < 12){
-  console.log("valid");
+  document.write("valid");
 }else {
   alert("enter valid one")
 }
@@ -25,3 +25,13 @@ weekday[5] = "Friday";
 weekday[6] = "Saturday";
 
 var n = weekday[d.getDay()];
+
+var gender=true;
+var=result=[""]
+if(gender === male && result === [""]){
+  document.write("your Akan name is"+[""]);
+}else if(gender === female && result === [""]){
+  document.write("your Akan name is"+[""]);
+}else {
+  document.write("your name is not available");
+}
